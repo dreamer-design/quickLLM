@@ -1,0 +1,25 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "infiniteinformation@proton.me",
+                "Name": "Joe"
+            }
+        ],
+        "ServiceTypes": ["Plasma/Applet"],
+        "Category": "System Information",
+        "Description": "A widget to take over the world!",
+        "Icon": "battery",
+        "Id": "com.jt.quikllm",
+        "Name": "QuikLLM",
+        "Version": "1",
+        "Website": "https://jt.com/user/plasmoid-QuikLLM",
+        "BugReportUrl": "https://jt.com/user/plasmoid-QuikLLM/bugs"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-ContainmentCategories": [
+            "panel",
+            "system-tray"
+        ],
+    "KPackageStructure": "Plasma/Applet"
+}
